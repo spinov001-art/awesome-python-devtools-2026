@@ -171,6 +171,8 @@ All single-file Python tools — no `pip install` needed:
 | [python-password-generator](https://github.com/spinov001-art/python-password-generator) | Secure passwords |
 | [python-web-monitor](https://github.com/spinov001-art/python-web-monitor) | Website uptime checker |
 | [python-qr-generator](https://github.com/spinov001-art/python-qr-generator) | QR code generator |
+| [python-git-stats](https://github.com/spinov001-art/python-git-stats) | Git repo analyzer (contributors, heatmap) |
+| [python-dependency-checker](https://github.com/spinov001-art/python-dependency-checker) | requirements.txt auditor |
 
 ---
 
