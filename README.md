@@ -176,6 +176,12 @@ All single-file Python tools — no `pip install` needed:
 
 ---
 
+## Related Lists
+
+- [awesome-devops-tools-2026](https://github.com/spinov001-art/awesome-devops-tools-2026) — 100+ DevOps tools
+- [awesome-cli-tools-2026](https://github.com/spinov001-art/awesome-cli-tools-2026) — 50+ CLI tools
+- [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — 77+ web scraping tools
+
 ## Contributing
 
 Know a great Python tool? Open an issue or PR!
