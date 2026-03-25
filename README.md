@@ -176,7 +176,9 @@ All single-file Python tools — no `pip install` needed:
 
 ---
 
-## Related Lists
+## Related
+
+- [Awesome Security Tools 2026](https://github.com/spinov001-art/awesome-security-tools-2026) - 150+ cybersecurity tools Lists
 
 - [awesome-devops-tools-2026](https://github.com/spinov001-art/awesome-devops-tools-2026) — 120+ DevOps tools
 - [awesome-api-tools-2026](https://github.com/spinov001-art/awesome-api-tools-2026) — 120+ API development tools
