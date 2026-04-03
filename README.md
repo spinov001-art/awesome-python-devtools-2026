@@ -189,10 +189,14 @@ All single-file Python tools — no `pip install` needed:
 
 Know a great Python tool? Open an issue or PR!
 
+## Need Custom Python Tools?
+
+I build production-grade Python tools, scrapers, and automation pipelines. Whether you need a custom CLI tool, API integration, or data extraction system — delivered in 48 hours.
+
+📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — describe your need, get a free quote.
+
+🔧 **[Browse 78+ ready-made scrapers →](https://apify.com/knotless_cadence)** — Reddit, Amazon, Google, YouTube, and more.
+
 ## License
 
 MIT
-
----
-
-*Built by [spinov001-art](https://github.com/spinov001-art) — 270+ open-source repos at [spinov001-art.github.io](https://spinov001-art.github.io)*
