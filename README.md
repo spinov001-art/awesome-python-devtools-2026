@@ -176,15 +176,26 @@ All single-file Python tools — no `pip install` needed:
 
 ---
 
-## Related Lists
+## Related
 
-- [awesome-devops-tools-2026](https://github.com/spinov001-art/awesome-devops-tools-2026) — 100+ DevOps tools
+- [Awesome Security Tools 2026](https://github.com/spinov001-art/awesome-security-tools-2026) - 150+ cybersecurity tools Lists
+
+- [awesome-devops-tools-2026](https://github.com/spinov001-art/awesome-devops-tools-2026) — 120+ DevOps tools
+- [awesome-api-tools-2026](https://github.com/spinov001-art/awesome-api-tools-2026) — 120+ API development tools
 - [awesome-cli-tools-2026](https://github.com/spinov001-art/awesome-cli-tools-2026) — 50+ CLI tools
-- [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — 77+ web scraping tools
+- [awesome-web-scraping-2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — 150+ web scraping tools
 
 ## Contributing
 
 Know a great Python tool? Open an issue or PR!
+
+## Need Custom Python Tools?
+
+I build production-grade Python tools, scrapers, and automation pipelines. Whether you need a custom CLI tool, API integration, or data extraction system — delivered in 48 hours.
+
+📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — describe your need, get a free quote.
+
+🔧 **[Browse 78+ ready-made scrapers →](https://apify.com/knotless_cadence)** — Reddit, Amazon, Google, YouTube, and more.
 
 ## License
 
